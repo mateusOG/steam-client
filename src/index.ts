@@ -1,1 +1,1 @@
-export * from "./SteamClient";
+export * from "./client/SteamClient.js";
